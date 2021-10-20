@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tela_login01</string>
+    <string name="error_label">Erro Há Campos Invalidos</string>
+    <string name="sucess_label">Login Feito com sucesso</string>
+</resources>
